@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/8PlS9K4eFYJhY7A5UxZys7WbizxV8SJfLC2VSZQXc2h6F8ioD5gt7Td03B1NP7OOfOvpJOv2sczWsapZ79bQ==",
+  "success": true,
+  "projectFilePath": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans/FSharpKoans.fsproj",
+  "expectedPackageFiles": [
+    "/Users/rithwik/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512",
+    "/Users/rithwik/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

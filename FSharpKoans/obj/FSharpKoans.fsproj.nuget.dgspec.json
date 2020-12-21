@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rithwik/spaces/FSharpKoans/FSharpKoans/FSharpKoans.fsproj": {}
+  },
+  "projects": {
+    "/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/FSharpKoans.Core.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/FSharpKoans.Core.fsproj",
+        "projectName": "FSharpKoans.Core",
+        "projectPath": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/FSharpKoans.Core.fsproj",
+        "packagesPath": "/Users/rithwik/.nuget/packages/",
+        "outputPath": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rithwik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rithwik/spaces/FSharpKoans/FSharpKoans/FSharpKoans.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans/FSharpKoans.fsproj",
+        "projectName": "FSharpKoans",
+        "projectPath": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans/FSharpKoans.fsproj",
+        "packagesPath": "/Users/rithwik/.nuget/packages/",
+        "outputPath": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rithwik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/FSharpKoans.Core.fsproj": {
+                "projectPath": "/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/FSharpKoans.Core.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

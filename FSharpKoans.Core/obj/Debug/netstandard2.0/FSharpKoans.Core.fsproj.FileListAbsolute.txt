@@ -1,0 +1,8 @@
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/bin/Debug/netstandard2.0/FSharpKoans.Core.deps.json
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/bin/Debug/netstandard2.0/FSharpKoans.Core.dll
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/bin/Debug/netstandard2.0/FSharpKoans.Core.pdb
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/obj/Debug/netstandard2.0/FSharpKoans.Core.fsprojAssemblyReference.cache
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/obj/Debug/netstandard2.0/FSharpKoans.Core.AssemblyInfoInputs.cache
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/obj/Debug/netstandard2.0/FSharpKoans.Core.AssemblyInfo.fs
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/obj/Debug/netstandard2.0/FSharpKoans.Core.dll
+/Users/rithwik/spaces/FSharpKoans/FSharpKoans.Core/obj/Debug/netstandard2.0/FSharpKoans.Core.pdb
